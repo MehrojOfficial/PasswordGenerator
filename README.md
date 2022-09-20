@@ -9,8 +9,8 @@ This program has a convenient and compact user interface. It consists of a few *
 
 ## Features
 
-1.Generating strong password with up to 30 characters. (Manual value supported)
-2.Options to choose what to include. (Numbers,Symbols,Uppercase,Lowercase letters)
+1.Generating strong password with up to 30 characters. (Manual value supported)  
+2.Options to choose what to include. (Numbers,Symbols,Uppercase,Lowercase letters)  
 3.Autocopy of generated password as soon as it is ready without further actions.
 
 ## Hotkeys
