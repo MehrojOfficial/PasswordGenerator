@@ -14,6 +14,7 @@ root = Tk()
 root.resizable(0,0)
 root.title('Password Generator')
 root.configure(bg='#303841')
+root.iconbitmap(r"data/icon.ico")
 
 # Specific Functions
 
