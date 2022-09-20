@@ -44,19 +44,16 @@ def mixture(numberv,symbolv,letter_lowv,letter_upv,lent):
                 number()
             else:
                 break
-
         if symbolv:
             if len(result) < limit:
                 symbol()
             else:
-                break
-            
+                break    
         if letter_upv:
             if len(result) < limit:
                 letter_up()
             else:
                 break
-            
         if letter_lowv:
             if len(result) < limit:
                 letter_low()
